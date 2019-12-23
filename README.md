@@ -23,6 +23,10 @@ We shall filter myList.json for .entities[] | { uuid: .uuid } and write the resu
 
 Success! Created myList.filtered.json with filtered values
 ```
+* * *
+## TO DO
+
+- Add support for fetching data over network requests
 
 * * *
 Please feel free to contribute to `jqi`. It's been fun writing my first shell script!
